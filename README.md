@@ -5,7 +5,7 @@ Para realizar este proyecto he creado 3 Actividades:
 	*  PlayActivity
 	* EndPlayActivity
 
-<h3> ConfigActivity</h3>
+<h4> ConfigActivity</h4>
 En esta activity encontramos dos EditText para escrbir nuestro nombre y el numero de intentos.
 Nuestro nombre sera guardado en la clase Application que he implementado para guardar ciertas variables.
 El numero de intentos son las veces que podremos intentar adivinar el numero en la siguiente activity.
