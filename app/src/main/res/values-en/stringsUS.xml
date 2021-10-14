@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="edUserNameHint">Enter your name</string>
+    <string name="edAttempsHint">"Enter the attemps"</string>
+    <string name="tvAttempsTittle">Enter here the number of attempts you want to have in the game</string>
+    <string name="btnPlayText">¡Lets Play!</string>
+    <string name="tvEdAttemptTittle">Try to guess the number:</string>
+    <string name="edAttempsInHint">Enter a number</string>
+    <string name="btnCheckNumberText">Check</string>
+    <string name="btnTryAgainText">Try Again</string>
+    <string name="tvNumberIsHigher">Number is Higher</string>
+    <string name="tvNumberIsLower">Numebr is Lower</string>
+    <string name="tvErrorMessagePlayAttempInteger">Enter an integer between 0 and 100</string>
+    <string name="tvErrorMessagePlayConfigAttemps">You can choose 1 or more attempts</string>
+    <string name="tvEndPlayIntroWin">Congrats</string>
+    <string name="tvEndPlayIntroLoose">Sorry</string>
+    <string name="tvEndPlayGameResultWin">You\'ve won</string>
+    <string name="tvEndPlayGameResultLoose">You lost</string>
+    <string name="tvEndPlayInfoWin">You have used:</string>
+    <string name="attemps">attemps</string>
+    <string name="tvEndPlayInfoLoose">The secret number was:</string>
+</resources>

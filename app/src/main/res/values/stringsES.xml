@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="edUserNameHint">Introduce tu nombre</string>
+    <string name="edAttempsHint">"Introduce los intentos "</string>
+    <string name="tvAttempsTittle">Introduce aqui el numero de intentos que quieres que haya en el juego</string>
+    <string name="btnPlayText">¡A Jugar!</string>
+    <string name="tvEdAttemptTittle">Intenta adivinar el numero:</string>
+    <string name="edAttempsInHint">Introduce un numero</string>
+    <string name="btnCheckNumberText">Comprobar</string>
+    <string name="btnTryAgainText">Volver a intentarlo</string>
+    <string name="tvNumberIsHigher">El numero es mayor</string>
+    <string name="tvNumberIsLower">El numero es menor</string>
+    <string name="tvErrorMessagePlayAttempInteger">Introduce un numero entero entre 0 y 100</string>
+    <string name="tvErrorMessagePlayConfigAttemps">Puedes elegir 1 o mas intentos</string>
+    <string name="tvEndPlayIntroWin">Enhorabuena</string>
+    <string name="tvEndPlayIntroLoose">Lo siento</string>
+    <string name="tvEndPlayGameResultWin">¡Has ganado!</string>
+    <string name="tvEndPlayGameResultLoose">¡Has perdido!</string>
+    <string name="tvEndPlayInfoWin">Has utilizado:</string>
+    <string name="attemps">intentos</string>
+    <string name="tvEndPlayInfoLoose">El numero secreto era:</string>
+</resources>
