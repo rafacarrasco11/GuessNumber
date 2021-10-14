@@ -5,15 +5,15 @@ Para realizar este proyecto he creado 3 Actividades:
 	*  PlayActivity
 	* EndPlayActivity
 
+<h2></h2>
+<h2></h2>
+
 <h4> ConfigActivity</h4>
 En esta activity encontramos dos EditText para escrbir nuestro nombre y el numero de intentos.
 Nuestro nombre sera guardado en la clase Application que he implementado para guardar ciertas variables.
 El numero de intentos son las veces que podremos intentar adivinar el numero en la siguiente activity.
 
 Al final encontramos un boton que al pulsarlo nos redirige a la actividad PlayActivity (con Intent). Si no has introducido bien las variables de los EditText no te dejara avanzar.
-
-<h2></h2>
-<h2></h2>
 
 <h4> PlayActivity</h4>
 Aqui hemos implementado el juego con todos sus emtodos para comprobar si acierto el numero secreto asi como si me quedan intentos etc...
